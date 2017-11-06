@@ -1,0 +1,28 @@
+{
+  "name": "MTG-Pricechecker Shared Code",
+  "version": "0.0.1",
+  "description": "Shared code for MTG-Pricechecker.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^4.12.4",
+    "numeral": "^2.0.6"
+  },
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshB2699/MTG-Project"
+  },
+  "keywords": [
+    "node",
+    "discordjs",
+    "mtg"
+  ],
+  "author": "Josh Burke",
+  "contributors": [],
+  "license": "MIT"
+}

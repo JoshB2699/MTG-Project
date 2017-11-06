@@ -1,0 +1,37 @@
+{
+  "name": "MTG-Pricechecker Discord Bot",
+  "version": "0.0.1",
+  "description": "A discord.js bot for comparing the price of Magic: The Gathering card prices.",
+  "main": "app.js",
+  "scripts": {},
+  "dependencies": {
+    "async": "^2.5.0",
+    "bufferutil": "^3.0.2",
+    "discord.js": "^11.2.1",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "libsodium-wrappers": "^0.5.4",
+    "morgan": "^1.9.0",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.3",
+    "sodium": "^2.0.1",
+    "uws": "^8.14.1"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshB2699/MTG-Project"
+  },
+  "keywords": [
+    "node",
+    "discord.js",
+    "mtg"
+  ],
+  "author": "Josh Burke",
+  "contributors": [],
+  "license": "MIT"
+}
